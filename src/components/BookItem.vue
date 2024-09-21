@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="book-item">
     <img :src="image" alt="Book cover"/>
     <h2>{{ title }}</h2>
     <h3>{{ author }}</h3>
